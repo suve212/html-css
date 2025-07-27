@@ -1,0 +1,86 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: beige;
+}
+nav{
+    background-color: burlywood;
+    color:rgb(142, 107, 39);
+    padding:15px;
+}
+ul,li,h1{
+    display:inline;
+}
+ul{
+    margin-left:70%;
+}
+li{
+    cursor: pointer;
+}
+li:hover{
+    color:rgb(200, 96, 17);
+}
+input{
+    padding:10px;
+    width:60%;
+    border-color: bisque;
+    border-style: solid;
+}
+.searchbar{
+    padding:30px;
+    text-align:center;
+}
+.box{
+    color:rgba(234, 83, 128, 0.807);
+    border-color:wheat;
+    border-style: solid;
+    border-width:2px;
+    width:225px;
+    display:inline-block;
+}
+.box:hover{
+    background-color:azure;
+    cursor: pointer;
+}
+.bo{
+    color:rgba(234, 83, 128, 0.807);
+    border-color:wheat;
+    border-style: solid;
+    border-width:2px;
+    width:225px;
+    display:inline-block;
+}
+.bo:hover{
+    background-color:azure;
+    cursor: pointer;
+}
+.b{
+    color:rgba(234, 83, 128, 0.807);
+    border-color:wheat;
+    border-style: solid;
+    border-width:2px;
+    width:225px;
+    display:inline-block;
+}
+.b:hover{
+    background-color:azure;
+    cursor: pointer;
+}
+.products{
+    text-align: center;
+}
+.about{
+    text-align:center;
+    margin-top:20px;
+    padding:20px;
+    background-color: burlywood;
+    color:#4B2E2B;
+}
+.contact{
+    text-align:center;
+    padding:20px;
+    background-color: burlywood;
+    color:	#4B2E2B;
+}
